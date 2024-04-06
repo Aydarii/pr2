@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Это пр №2");
         }
     }
 }
