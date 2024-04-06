@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\pr2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{91EBC78D-3CED-4443-AD50-F57BE19C5F9B}|pr2.csproj|c:\\users\\student\\desktop\\pr2\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EBC78D-3CED-4443-AD50-F57BE19C5F9B}|pr2.csproj|solutionrelative:triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{91EBC78D-3CED-4443-AD50-F57BE19C5F9B}|pr2.csproj|c:\\users\\student\\desktop\\pr2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91EBC78D-3CED-4443-AD50-F57BE19C5F9B}|pr2.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91EBC78D-3CED-4443-AD50-F57BE19C5F9B}|pr2.csproj|c:\\users\\student\\desktop\\pr2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91EBC78D-3CED-4443-AD50-F57BE19C5F9B}|pr2.csproj|C:\\Users\\student\\Desktop\\pr2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91EBC78D-3CED-4443-AD50-F57BE19C5F9B}|pr2.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\pr2\\Triangle.cs",
+              "RelativeDocumentMoniker": "Triangle.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\pr2\\Triangle.cs",
+              "RelativeToolTip": "Triangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T09:41:19.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\pr2\\Rectangle.cs",
               "RelativeDocumentMoniker": "Rectangle.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Circle.cs",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\pr2\\Circle.cs",
               "RelativeDocumentMoniker": "Circle.cs",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "Circle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T09:10:40.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T09:10:40.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Square.cs",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\pr2\\Square.cs",
               "RelativeDocumentMoniker": "Square.cs",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\pr2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
